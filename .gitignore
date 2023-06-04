@@ -1,6 +1,8 @@
 dist
 .history/
 
+tsconfig.tsbuildinfo
+
 # Docusaurus
 .docusaurus
 .cache-loader
